@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">资产清查</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tasks">TasksActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_equipment">EquipmentActivity</string>
+    <string name="title_activity_equipment_state">EquipmentStateActivity</string>
+    <string name="title_activity_equipment_large">EquipmentLargeActivity</string>
+    <string name="title_activity_zxing">ZxingActivity</string>
+    <string name="title_activity_capture">CaptureActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="scan_text">小样，想扫二维码，还不对准了！！</string>
+    <string name="title_activity_result">ResultActivity</string>
+    
+
+</resources>
